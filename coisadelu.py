@@ -34,6 +34,7 @@ for i in range(17):
     fav = driver.find_element_by_id("botaoFavoritos")
     fav.click()
 
+
     #visualiza
     driver.get("https://www.spiritfanfiction.com/historia/largura-das-portas-19677653/capitulo1")
 
